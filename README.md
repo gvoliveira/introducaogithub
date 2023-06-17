@@ -22,6 +22,7 @@ Neste exemplo, o repositório foi criado como "Public", ou seja, qualquer um pod
 
 <img src="git1.png" alt="tela criação repositório">
 
+
 As opções de `.gitignore` e `Choose a license` serão deixados de lado nesse momento, mas não se esqueça deles, em breve serão úteis!
 
 # Criei o repositório, e agora?
