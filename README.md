@@ -46,7 +46,7 @@ Sei que tantas definições podem parecer confusas, mas com a prática, já já 
 
 Já o `Fork` é um novo repositório que compartilha configurações de código e visibilidade com o repositório "upstream" original. Os forks geralmente são usados para iterar ideias ou alterações antes de serem propostas de volta para o repositório upstream, como em projetos código aberto ou quando um usuário não tem acesso de gravação ao repositório upstream. Se isso pareceu confuso, vamos a um exemplo: você viu um projeto de código aberto, gostou dele, baixou para a sua máquina e fez algumas melhorias. Você poderá contribuir com o projeto principal, sugerindo essas mudanças para que sejam incorporadas.
 
-Bem, chegamos ao fim de uma curta caminhada, mas que será importante para seu desenvolvimento profissional! Entender esses conceitos desde o começo do curso fará com que tenha mais autonomia e também mais controle sobre os códigos que fará no futuro. 
+Bem, chegamos ao fim de uma curta caminhada, mas que será importante para seu desenvolvimento profissional! Entender esses conceitos desde o começo do curso fará com que tenha mais autonomia e também mais controle sobre os códigos que fará no futuro. Não deixe de utilizar as ferramentas, não tenha medo!
 
 Agora vamos praticar um pouco?! Bora assistir a aula concentrado ein! :grin:
 
